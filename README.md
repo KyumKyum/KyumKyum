@@ -1,10 +1,10 @@
 ### Hi there 👋 
 #### Coding Hard to be a nice developer! 😄😄😄
 
-- Currently Working & Learning
-> Android Application (JAVA)
-> Backend Server (NodeJS, Go)
-> Frontend (ReactJS)
+##### I'm Currently Working & Learning at...
+- Android Application (JAVA)
+- Backend Server (NodeJS, Go)
+- Frontend (ReactJS)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KyumKyum)](https://github.com/anuraghazra/github-readme-stats)
 <!--
