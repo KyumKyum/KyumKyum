@@ -3,8 +3,8 @@
 
 ##### I'm Currently Working & Learning at...
 - Android Application (JAVA)
-- Backend Server (NodeJS, Go)
-- Frontend (ReactJS)
+- Backend Server (NodeJS (Express), Go)
+- Frontend (React (TS))
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KyumKyum)](https://github.com/anuraghazra/github-readme-stats)
 <!--
