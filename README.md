@@ -1,7 +1,7 @@
 ### Hi there 👋 
 #### Coding Hard to be a nice developer! 😄😄😄
 
-##### I'm Currently Working & Learning at...
+##### I'm Currently Working & Learning at... (Need to be updated)
 - Android Application (JAVA)
 - Backend Server (NodeJS (Express), Go)
 - Frontend (React (TS))
