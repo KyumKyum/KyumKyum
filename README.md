@@ -6,6 +6,9 @@
 - Backend Server (NodeJS (Express), Go)
 - Frontend (React (TS))
 
+### 💻 What i use?
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeha0714&langs_count=7&layout=compact&theme=dark)](https://github.com/jeha0714/jeha0714)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KyumKyum&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **KyumKyum/KyumKyum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
