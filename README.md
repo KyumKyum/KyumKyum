@@ -7,7 +7,7 @@
 - Frontend (React (TS))
 
 ### 💻 What i use?
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeha0714&langs_count=7&layout=compact&theme=dark)](https://github.com/KyumKyum)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyumKyum&langs_count=7&layout=compact&theme=dark)](https://github.com/KyumKyum)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KyumKyum&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
