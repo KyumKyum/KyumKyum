@@ -6,8 +6,6 @@
 - Backend Server (NodeJS (Express), Go)
 - Frontend (React (TS))
 
-### 💻 What i use?
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyumKyum&langs_count=7&layout=compact&count_private=true&theme=dark)](https://github.com/KyumKyum/KyumKyum)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KyumKyum&count_private=true&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
