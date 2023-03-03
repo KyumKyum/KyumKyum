@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=Next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nginx-009639?style=round-square&logo=GraphQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=round-square&logo=Prisma&logoColor=white"/>
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=round-square&logo=GraphQL&logoColor=white"/>
 </p> 
