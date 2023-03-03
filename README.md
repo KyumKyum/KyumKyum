@@ -7,14 +7,15 @@
 #### Platforms & Languages
 <p>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=323330"/>
-    <img src="https://img.shields.io/badge/style=round-square&logo=Typescript&logoColor=#007ACC"/>
-    <img src="https://img.shields.io/badge/style=round-square&logo=Go&logoColor=#29BEB0"/>
-    <img src="https://img.shields.io/badge/style=round-square&logo=React.js&logoColor=#61DBFB"/>
-    <img src="https://img.shields.io/badge/style=round-square&logo=Svelte.kit&logoColor=AA1E1E"/>
-    <img src="https://img.shields.io/badge/style=round-square&logo=Next.js&logoColor=#45CE05"/>
-    <img src="https://img.shields.io/badge/style=round-square&logo=Node.js&logoColor=#3C873A"/>
-    <img src="https://img.shields.io/badge/style=round-square&logo=Prisma&logoColor=#000000"/>
-    <img src="https://img.shields.io/badge/style=round-square&logo=GraphQL&logoColor=E535AB"/>
+    <img src="https://img.shields.io/badge/Typescript-3178C6?style=round-square&logo=Typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=round-square&logo=Go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=#000000"/>
+    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=round-square&logo=Svelte&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=Node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=round-square&logo=Prisma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=round-square&logo=GraphQL&logoColor=white"/>
 </p> 
 
 
