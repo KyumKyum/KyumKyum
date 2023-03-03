@@ -1,12 +1,12 @@
 #### Coding Hard to be a nice developer! 😄😄😄
 
 #### Currently I am...
-### - Student of Hanyang Univ. (Junior)
-### - Fullstack Developer & CTO of @MoheyOfficial
+- Student of Hanyang Univ. (Junior)
+- Fullstack Developer & CTO of @MoheyOfficial
 
 #### Platforms & Languages
 <p>
-    <img src="https://img.shields.io/badge/style=round-square&logo=Javascript&logoColor=#F0DB4F"/>
+    <img src="https://img.shields.io/badge/Javascript-#F0DB4F"/>
     <img src="https://img.shields.io/badge/style=round-square&logo=Typescript&logoColor=#007ACC"/>
     <img src="https://img.shields.io/badge/style=round-square&logo=Go&logoColor=#29BEB0"/>
     <img src="https://img.shields.io/badge/style=round-square&logo=React.js&logoColor=#61DBFB"/>
