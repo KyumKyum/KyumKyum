@@ -6,7 +6,7 @@
 
 #### Platforms & Languages
 <p>
-    <img src="https://img.shields.io/badge/Javascript-#F0DB4F"/>
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=323330"/>
     <img src="https://img.shields.io/badge/style=round-square&logo=Typescript&logoColor=#007ACC"/>
     <img src="https://img.shields.io/badge/style=round-square&logo=Go&logoColor=#29BEB0"/>
     <img src="https://img.shields.io/badge/style=round-square&logo=React.js&logoColor=#61DBFB"/>
