@@ -1,10 +1,21 @@
-### Hi there 👋 
 #### Coding Hard to be a nice developer! 😄😄😄
 
-##### I'm Currently Working & Learning at... (Need to be updated, it's actually outdated XD)
-- Android Application (JAVA)
-- Backend Server (NodeJS (Express), Go)
-- Frontend (React (TS))
+#### Currently I am...
+### - Student of Hanyang Univ. (Junior)
+### - Fullstack Developer & CTO of @MoheyOfficial
+
+#### Platforms & Languages
+<p>
+    <img src="https://img.shields.io/badge/style=round-square&logo=Javascript&logoColor=#F0DB4F"/>
+    <img src="https://img.shields.io/badge/style=round-square&logo=Typescript&logoColor=#007ACC"/>
+    <img src="https://img.shields.io/badge/style=round-square&logo=Go&logoColor=#29BEB0"/>
+    <img src="https://img.shields.io/badge/style=round-square&logo=React.js&logoColor=#61DBFB"/>
+    <img src="https://img.shields.io/badge/style=round-square&logo=Svelte.kit&logoColor=AA1E1E"/>
+    <img src="https://img.shields.io/badge/style=round-square&logo=Next.js&logoColor=#45CE05"/>
+    <img src="https://img.shields.io/badge/style=round-square&logo=Node.js&logoColor=#3C873A"/>
+    <img src="https://img.shields.io/badge/style=round-square&logo=Prisma&logoColor=#000000"/>
+    <img src="https://img.shields.io/badge/style=round-square&logo=GraphQL&logoColor=E535AB"/>
+</p> 
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KyumKyum&count_private=true&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
