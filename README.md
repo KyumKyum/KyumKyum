@@ -4,7 +4,7 @@
 - Student of Hanyang Univ. (Junior)
 - Fullstack Developer & CTO of @MoheyOfficial
 
-#### Platforms & Languages
+#### Tech Stacks
 <p>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=323330"/>
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=round-square&logo=Typescript&logoColor=white"/>
