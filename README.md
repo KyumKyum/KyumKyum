@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=Kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=#000000"/>
     <img src="https://img.shields.io/badge/Svelte-FF3E00?style=round-square&logo=Svelte&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring Boot-000000?style=round-square&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Nginx-009639?style=round-square&logo=Nginx&logoColor=white"/>
