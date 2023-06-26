@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=round-square&logo=GraphQL&logoColor=white"/>
 </p> 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KyumKyum&count_private=true&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
