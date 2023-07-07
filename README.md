@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=round-square&logo=Typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=round-square&logo=Go&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=Kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=#000000"/>
     <img src="https://img.shields.io/badge/Svelte-FF3E00?style=round-square&logo=Svelte&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=springboot&logoColor=white"/>
