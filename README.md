@@ -3,7 +3,7 @@
 
 #### Currently I am...
 - Student of Hanyang Univ. (Junior)
-- Fullstack Developer & CTO of @MoheyOfficial
+- Working as a Full-Stack Developer.
 
 #### Tech Stacks
 <p>
@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=round-square&logo=Typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=round-square&logo=Go&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=Kotlin&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=#000000"/>
     <img src="https://img.shields.io/badge/Svelte-FF3E00?style=round-square&logo=Svelte&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=springboot&logoColor=white"/>
@@ -21,6 +20,26 @@
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=round-square&logo=Prisma&logoColor=white"/>
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=round-square&logo=GraphQL&logoColor=white"/>
 </p> 
+
+###### I usually...
+- Build Frontend with...
+    - React.js using Javascript or Typescript. (Currently migrating all dev works to typescript.)
+ 
+- Build Backend with...
+    - Express.js using Javascript/Typescript with GraphQL.
+    - Spring boot using Kotlin with REST API.
+    - Golang with gRPC for build microservices. (Framework will be varied by the situation.)
+    - Mostly using PostgreSQL as main DB, Cassandra as log DB.
+    - Also trying to apply Redis as a cache.
+      
+- Build Application with...
+    - RN using typescript. (Still working hard on it...)
+      
+- Currently trying to study and learn...
+    - More about Kotlin and Spring Boot. (or Spring-Like architecture, just like MVC or Hexagonal Architecture)
+    - More about Typescript and Golang.
+    - Trying to learn framework Next.js and Nest.js.
+    - Trying to learn a little bit of Rust. (Not deeply, but just the concept. I guess 'thinking like a rust' will greatly helpful when developing!)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
