@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/Nginx-009639?style=round-square&logo=Nginx&logoColor=white"/>
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=round-square&logo=Prisma&logoColor=white"/>
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=round-square&logo=GraphQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/gRPC-E10098?style=round-square&logo=gRPC&logoColor=white"/>
 </p> 
 
 ###### I usually...
