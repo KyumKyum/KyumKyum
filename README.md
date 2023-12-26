@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/Svelte-FF3E00?style=round-square&logo=Svelte&logoColor=white"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=Next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=round-square&logo=NestJS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=round-square&logo=Express&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white"/>
