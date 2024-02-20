@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Go-00ADD8?style=round-square&logo=Go&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=Kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=round-square&logo=jQuery&logoColor=#000000"/>
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=round-square&logo=jQuery&logoColor=#000000"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=#000000"/>
     <img src="https://img.shields.io/badge/Svelte-FF3E00?style=round-square&logo=Svelte&logoColor=white"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=Next.js&logoColor=white"/>
@@ -30,23 +31,26 @@
 
 ###### I usually...
 - Build Frontend with...
-    - React.js using Javascript or Typescript. (Currently migrating all dev works to typescript.)
+    - Mainly using NextJS with Typescript to build Frontend/One-App Blog/Project.
+    - Use React if I need to build only frontend and doesn't requires any SSR.
+    - Combine jQuery for more flexible dev. 
  
 - Build Backend with...
-    - Express.js using Javascript/Typescript with GraphQL.
-    - Spring boot using Kotlin with REST API.
-    - Golang with gRPC for build microservices. (Framework will be varied by the situation.)
-    - Mostly using PostgreSQL as main DB, Cassandra as log DB.
-    - Also trying to apply Redis as a cache.
+    - Mainly using NestJS with Typescript for Backend.
+    - Spring boot using Kotlin with REST API as an alternatives.
+    - Express.js using Javascript/Typescript for small project. Implement GraphQL if such project gets bigger.
+    - Golang with gRPC for build microservices. (Mainly using the powerful in-built functions)
       
 - Build Application with...
-    - RN using typescript. (Still working hard on it...)
+    - RN using Typescript.
+    - Use Kotlin for Android and Swift/Objective-C for Native codes.
       
 - Currently trying to study and learn...
-    - More about Kotlin and Spring Boot. (or Spring-Like architecture, just like MVC or Hexagonal Architecture)
-    - More about Typescript and Golang.
-    - Trying to learn framework Next.js and Nest.js.
-    - Trying to learn a little bit of Rust. (Not deeply, but just the concept. I guess 'thinking like a rust' will greatly helpful when developing!)
+    - More about my main streams. (NextJS, NestJS, Spring Boot.)
+    - Learning new languages: Rust. (Rust for fast&robust microservices. I guess 'thinking like a rust' will greatly helpful when developing!)
+    - Learning new Frameworks:
+      1. Vue.js and Nuxt.js: For faster frontend developement.
+      2. Electron and Tauri: For Desktop Application
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
