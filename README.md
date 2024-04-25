@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Kyum's%20Repository&fontSize=90)
+
+## My README is not updated... Gonna update it by the time I finished my companies project!
+
 #### Coding Hard to be a nice developer! 😄😄😄
 
 #### Currently I am...
