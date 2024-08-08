@@ -46,6 +46,8 @@
 #### Currently Studying (Future Roadmap)
 <p>
     <img alt="Rust" src ="https://img.shields.io/badge/Rust-000000.svg?&style=for-the-badge&logo=Rust&logoColor=white"/>
+    <img alt="Trpc" src ="https://img.shields.io/badge/trpc-2596BE.svg?&style=for-the-badge&logo=trpc&logoColor=white"/>
+    <img alt="RabbitMQ" src ="https://img.shields.io/badge/rabbitmq-FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
     <img alt="Tauri" src ="https://img.shields.io/badge/Tauri-24C8D8.svg?&style=for-the-badge&logo=tauri&logoColor=white"/>
     <img alt="kubernetes" src ="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
     <img alt="Apache" src ="https://img.shields.io/badge/Apache-D22128.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
