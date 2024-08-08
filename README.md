@@ -2,57 +2,61 @@
 
 ## My README is not updated... Gonna update it by the time I finished my company's project!
 
-#### Coding Hard to be a nice developer! 😄😄😄
+### Coding Hard to be a nice developer! 😄😄😄
 
-#### Currently I am...
-- Student of Hanyang Univ. (Junior)
-- Working as a Full-Stack Developer.
+### Currently I am...
+- Student of Hanyang Univ. (Senior)
+- Working as a Full-Stack Developer, expanding my roadmaps to DevOps.
 
-#### Tech Stacks
+### Tech Stacks
+
+#### Languages
 <p>
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=323330"/>
-    <img src="https://img.shields.io/badge/Typescript-3178C6?style=round-square&logo=Typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=round-square&logo=Go&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=Kotlin&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=round-square&logo=jQuery&logoColor=#000000"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=#000000"/>
-    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=round-square&logo=Svelte&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=Next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=round-square&logo=tailwindcss&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Styled_components-DB7093?style=round-square&logo=styledcomponents&logoColor=white"/>
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=round-square&logo=NestJS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=round-square&logo=Express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=springboot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Nginx-009639?style=round-square&logo=Nginx&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=round-square&logo=Prisma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=round-square&logo=GraphQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/gRPC-5CBCB9?style=round-square&logo=https://github.com/grpc/grpc.io/blob/4ad607130312760348fad636eec1bcd244f353d0/assets/icons/logo.svg&logoColor=white"/>
+    <img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white"/>
+    <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
 </p> 
 
-###### I usually...
-- Build Frontend with...
-    - Mainly using NextJS with Typescript to build Frontend/One-App Blog/Project.
-    - Use React if I need to build only frontend and doesn't requires any SSR.
-    - Combine jQuery for more flexible dev. 
- 
-- Build Backend with...
-    - Mainly using NestJS with Typescript for Backend.
-    - Spring boot using Kotlin with REST API as an alternatives.
-    - Express.js using Javascript/Typescript for small project. Implement GraphQL if such project gets bigger.
-    - Golang with gRPC for build microservices. (Mainly using the powerful in-built functions)
-      
-- Build Application with...
-    - RN using Typescript.
-    - Use Kotlin for Android and Swift/Objective-C for Native codes.
-      
-- Currently trying to study and learn...
-    - More about my main streams. (NextJS, NestJS, Spring Boot.)
-    - Learning new languages: Rust. (Rust for fast&robust microservices. I guess 'thinking like a rust' will greatly helpful when developing!)
-    - Learning new Frameworks:
-      1. Vue.js and Nuxt.js: For faster frontend developement.
-      2. Electron and Tauri: For Desktop Application
+#### Frontend
+<p>
+    <img alt="React" src ="https://img.shields.io/badge/React-61DAF8.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+    <img alt="NextJS" src ="https://img.shields.io/badge/Nextjs-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img alt="Svelte Kit" src ="https://img.shields.io/badge/Svelte Kit-FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white"/>
+</p> 
+
+#### Backend
+<p>
+    <img alt="Express" src ="https://img.shields.io/badge/React-61DAF8.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+    <img alt="NestJS" src ="https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
+    <img alt="Spring Boot" src ="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
+    <img alt="Ktor" src ="https://img.shields.io/badge/Ktor-087CFA.svg?&style=for-the-badge&logo=ktor&logoColor=white"/>
+</p> 
+
+#### Infra
+<p>
+    <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+    <img alt="Nginx" src ="https://img.shields.io/badge/Nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
+    <img alt="CircleCI" src ="https://img.shields.io/badge/circleci-343434.svg?&style=for-the-badge&logo=circleci&logoColor=white"/>
+</p> 
+
+#### Monitoring & Others
+<p>
+    <img alt="Prometheus" src ="https://img.shields.io/badge/Prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white"/>
+    <img alt="Grafana" src ="https://img.shields.io/badge/Grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white"/>
+    <img alt="GraphQL" src ="https://img.shields.io/badge/GraphQL-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
+</p> 
+
+#### Currently Studying (Future Roadmap)
+<p>
+    <img alt="Rust" src ="https://img.shields.io/badge/Rust-000000.svg?&style=for-the-badge&logo=Rust&logoColor=white"/>
+    <img alt="Tauri" src ="https://img.shields.io/badge/Tauri-24C8D8.svg?&style=for-the-badge&logo=tauri&logoColor=white"/>
+    <img alt="kubernetes" src ="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+    <img alt="Apache" src ="https://img.shields.io/badge/Apache-D22128.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
+    <img alt="Istio" src ="https://img.shields.io/badge/Istio-466BB0.svg?&style=for-the-badge&logo=istio&logoColor=white"/>
+    <img alt="Terraform" src ="https://img.shields.io/badge/Terraform-844FBA.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
+    <img alt="Apache Kafka" src ="https://img.shields.io/badge/apachekafka-231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white"/>
+    <img alt="ArgoCD" src ="https://img.shields.io/badge/argo-EF7B4D.svg?&style=for-the-badge&logo=argo&logoColor=white"/>
+</p>
+
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
