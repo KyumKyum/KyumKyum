@@ -23,7 +23,7 @@
 
 #### Backend
 <p>
-    <img alt="Express" src ="https://img.shields.io/badge/React-61DAF8.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+    <img alt="Express" src ="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
     <img alt="NestJS" src ="https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
     <img alt="Spring Boot" src ="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
     <img alt="Ktor" src ="https://img.shields.io/badge/Ktor-087CFA.svg?&style=for-the-badge&logo=ktor&logoColor=white"/>
