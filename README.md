@@ -14,9 +14,9 @@
     <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
 </p> 
 
-#### Frontend
+#### Frontend & Application
 <p>
-    <img alt="React" src ="https://img.shields.io/badge/React-61DAF8.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+    <img alt="React / React Native" src ="https://img.shields.io/badge/React / React Native-61DAF8.svg?&style=for-the-badge&logo=React&logoColor=white"/>
     <img alt="NextJS" src ="https://img.shields.io/badge/Nextjs-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
     <img alt="Svelte Kit" src ="https://img.shields.io/badge/Svelte Kit-FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white"/>
 </p> 
