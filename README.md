@@ -11,6 +11,9 @@
 <p>
     <img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white"/>
     <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
+    <img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/>
+    <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+    <img alt="GNU Bash" src ="https://img.shields.io/badge/gnubash-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p> 
 
 #### Frontend & Application
