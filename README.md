@@ -3,8 +3,7 @@
 ### Coding Hard to be a nice developer! 😄😄😄
 
 ### Currently I am...
-- Student of Hanyang Univ. (Senior)
-- Working as a Full-Stack Developer, expanding my roadmaps to DevOps.
+- Backend Developer working for the NAVER Corp.
 
 ### Tech Stacks
 
